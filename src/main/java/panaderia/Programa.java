@@ -13,6 +13,7 @@ import java.util.ArrayList;
  */
 public class Programa {
     public static void main(String[] args) {
+        //Para el video
         Pedidos p = new Pedidos();
        
         Bolsa bolsa1 = p.bolsa1();
